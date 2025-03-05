@@ -15,6 +15,6 @@ sqa_criteria:
     repos:
       github.com/EOSC-synergy/sqaaas-web git:
         commands:
-        - /usr/bin/env sh .sqa/script.paltry-chocolate-wildebeest.sh
-        container: qc.acc_frumpy-auburn-eleuth
+        - /usr/bin/env sh .sqa/script.hazy-asparagus-zonkey.sh
+        container: qc.acc_skanky-purple-chinchilla
 timeout: 5400
