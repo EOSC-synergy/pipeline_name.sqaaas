@@ -1,5 +1,5 @@
 services:
-  qc.acc_skanky-purple-chinchilla:
+  qc.acc_stuffy-silver-dachsbracke:
     command: sleep 6000000
     image: alpine:48.2.0
     volumes:
