@@ -15,6 +15,6 @@ sqa_criteria:
     repos:
       github.com/EOSC-synergy/sqaaas-web git:
         commands:
-        - /usr/bin/env sh .sqa/script.pasty-scarlet-hamster.sh
-        container: qc.acc_stuffy-silver-dachsbracke
+        - /usr/bin/env sh .sqa/script.droopy-lime-jellyfish.sh
+        container: qc.acc_shaggy-magnolia-mouse
 timeout: 5400
