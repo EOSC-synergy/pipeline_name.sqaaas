@@ -15,6 +15,6 @@ sqa_criteria:
     repos:
       github.com/EOSC-synergy/sqaaas-web git:
         commands:
-        - /usr/bin/env sh .sqa/script.scaly-lemon-jellyfish.sh
-        container: qc.acc_muzzy-azure-lynx
+        - /usr/bin/env sh .sqa/script.crappy-bistre-discus.sh
+        container: qc.acc_homey-tomato-starfish
 timeout: 5400
