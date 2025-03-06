@@ -15,6 +15,6 @@ sqa_criteria:
     repos:
       github.com/EOSC-synergy/sqaaas-web git:
         commands:
-        - /usr/bin/env sh .sqa/script.crappy-bistre-discus.sh
-        container: qc.acc_homey-tomato-starfish
+        - /usr/bin/env sh .sqa/script.chewy-ruby-baboon.sh
+        container: qc.acc_dorky-alizarin-baboon
 timeout: 5400
