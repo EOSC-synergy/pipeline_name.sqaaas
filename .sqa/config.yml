@@ -15,6 +15,6 @@ sqa_criteria:
     repos:
       github.com/EOSC-synergy/sqaaas-web git:
         commands:
-        - /usr/bin/env sh .sqa/script.chewy-ruby-baboon.sh
-        container: qc.acc_dorky-alizarin-baboon
+        - /usr/bin/env sh .sqa/script.lumpy-silver-uguisu.sh
+        container: qc.acc_hazy-pink-cichlid
 timeout: 5400
